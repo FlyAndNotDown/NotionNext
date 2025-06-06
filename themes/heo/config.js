@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://www.flyandnotdown.com' },
-    { title: '🎉 开源游戏引擎 Explosion 开发中，欢迎加入', url: 'https://github.com/ExplosionEngine/Explosion' }
+    { title: '🎉 开源游戏引擎 Explosion 开发中', url: 'https://github.com/ExplosionEngine/Explosion' }
   ],
 
   // 英雄区左右侧组件颠倒位置
